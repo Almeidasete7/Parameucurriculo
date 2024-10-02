@@ -1,4 +1,3 @@
-
 # parameucurriculo
 <img src= "barbearia.png" alt = "print do programa concluido"> 
 
