@@ -17,4 +17,5 @@ Validações adicionais.
 ## Conclusão
 O sistema é funcional e atende às necessidades básicas, mas há oportunidades para melhorias e novas funcionalidades.
 
-<img src= "barbearia.png" alt = "print do programa concluido"> 
+<img src="barbearia.png" alt="print do programa concluído">
+ 
